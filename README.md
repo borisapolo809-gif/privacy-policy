@@ -14,7 +14,7 @@ Você pode acessar a política de privacidade completa em:
 
 ## 📄 Arquivos
 
-- `index.html` - Site completo da política de privacidade
+- `docs/index.html` - Site completo da política de privacidade
 - `README.md` - Este arquivo
 
 ## 🔍 O que é coletado?
